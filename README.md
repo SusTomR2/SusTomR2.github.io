@@ -2,10 +2,15 @@
 
 ### Skills 
 *SQL*: BigQuery
+
 *Visualizations*: TableAU
+
 *Machine Learning*: TensorFlow, Keras, PyTorch, Scikit Learn
+
 *Python*: Pandas, NumPy
+
 *R Programming*: Tidyverse, GGPlot
+
 *Communication*: Advanced English
 
 ### Education 
